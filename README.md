@@ -1,10 +1,10 @@
-Ce projet a été méné à bien durant un hackaton de 30 heures (du mardi 9h au mercredi 15h).
+Projet mené durant un hackathon de 30 heures (du mardi 9h au mercredi 12h).
 
-Le sujet du hackaton :
+Le sujet :
 => Créer une application utile pour les voyageurs de l'espace dans le futur.
 
 Application créée :
-=> Space-Meet : sorte de tinder multi-espèces et multi-genres
+=> Space-Meet : Tinder multi-espèces.
 
 Langages utilisés :
 
