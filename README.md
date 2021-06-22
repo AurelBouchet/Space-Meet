@@ -1,10 +1,10 @@
-Projet mené durant un hackathon de 30 heures (du mardi 9h au mercredi 12h).
+Projet mené durant un hackathon de 30 heures.
 
 Le sujet :
-=> Créer une application utile pour les voyageurs de l'espace dans le futur.
+Créer une application utile pour les voyageurs de l'espace dans le futur.
 
 Application créée :
-=> Space-Meet : Tinder multi-espèces.
+Space-Meet : Tinder multi-espèces.
 
 Langages utilisés :
 
@@ -19,7 +19,9 @@ Modules utilisés :
 
 La team était composée de :
 
-- Aurélien BOUCHET
+- Nicolas GERMAIN
 - Damien GUIGANTON
 - Maxence RAINGONNEAU
-- Nicolas GERMAIN
+- Aurélien BOUCHET
+
+
