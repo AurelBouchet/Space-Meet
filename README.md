@@ -21,7 +21,7 @@ La team était composée de :
 
 - Nicolas GERMAIN
 - Damien GUIGANTON
-- Maxence RAINGONNEAU
+- Maxence RAINGEONNEAU
 - Aurélien BOUCHET
 
 
